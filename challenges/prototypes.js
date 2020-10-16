@@ -66,3 +66,4 @@
 // console.log(cuboid.surfaceArea()); // 130
 
 
+console.log('Commented everything on Prototype.js to see if classes.js was working beause this js file throws a fit its not commented out while running the classes files')

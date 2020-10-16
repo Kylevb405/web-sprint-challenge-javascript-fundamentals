@@ -35,3 +35,5 @@ summation = function( number ) {
   }
   return summat
 }
+
+console.log(summation(4))
